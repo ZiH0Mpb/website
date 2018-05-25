@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 title: dropClust
 description: Efficient clustering of droplet-based single cell RNA-seq datasets
 site_name: dropClust
