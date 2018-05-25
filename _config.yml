@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 title: dropClust
 description: Efficient clustering of droplet-based single cell RNA-seq datasets
 site_name: dropClust
+github:
+  repository_url: https://github.com/debsin/dropClust
